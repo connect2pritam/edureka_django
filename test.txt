@@ -3,3 +3,4 @@ is a
 test file
 
 new line
+master branch
